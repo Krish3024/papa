@@ -1,0 +1,331 @@
+Sl. No.,Hazard Identified,Type Hazard,Probability,Severity,Score (P × S),Risk Level,Date and Time,Name,Personal ID,Location,Remark,Category,Sub Category,Brief Description,Division,Exact Location,Compliance Date,Selected Risk Level,
+1,Kiln 4 platform FOUND slightly bend.,"H = Y
+P = Y
+E = Y","H = 4
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 12
+P = 1
+E = 1","H = H
+P = L
+E = L",20-08-2025,Bijay Kumar Sahoo,24785,SID,Close,UC,others (Unsafe Condition),Kiln 4 platform found slightly bend.  In night when castable material kept on platform may cause mishaps.,SID,KILN 4,25-08-2025,MINOR, 
+2,Workers are woring without PPEs,"H = Y
+P = Y
+E = Y","H = 4
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 12
+P = 1
+E = 1","H = H
+P = L
+E = L",20-08-2025,Bijay Kumar Sahoo,24785,SID,Close,UA,others (Unsafe Condition),workers at CB platform found without hand gloves and Nose mask,SID,KILN 4,25-08-2025,MODRATE, 
+3,Obsereved Rusted and damaged structure.,"H = Y
+P = Y
+E = Y","H = 4
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 12
+P = 1
+E = 1","H = H
+P = L
+E = L",20-08-2025,Bijay Kumar Sahoo,24785,SID,Close,UC,others (Unsafe Condition),Rusted and damaged structure of staircase required to repair,SID,KILN 4,25-08-2025,MINOR, 
+4,Found opening on the platform,"H = Y
+P = Y
+E = Y","H = 4
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 12
+P = 1
+E = 1","H = H
+P = L
+E = L",20-08-2025,Bijay Kumar Sahoo,24785,SID,Close,UC,others (Unsafe Condition),Found opening & need hand railing on the platform,SID,KILN 4,25-08-2025,MINOR, 
+5,Handrail found missing.,"H = Y
+P = Y
+E = Y","H = 4
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 12
+P = 1
+E = 1","H = H
+P = L
+E = L",20-08-2025,Bijay Kumar Sahoo,24785,SID,Close,UC,others (Unsafe Condition),Hand railing required on the platform,SID,KILN 4,25-08-2025,MINOR, 
+6,Plateform found damage screen side,"H = Y
+P = Y
+E = Y","H = 4
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 12
+P = 1
+E = 1","H = H
+P = L
+E = L",20-08-2025,Bijay Kumar Sahoo,24785,SID,Close,UC,others (Unsafe Condition),Platform got damaged at screen area.,SID,KILN 4,25-08-2025,MINOR, 
+7,Plateform found damage at back side of DSC,"H = Y
+P = Y
+E = Y","H = 4
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 12
+P = 1
+E = 1","H = H
+P = L
+E = L",20-08-2025,Bijay Kumar Sahoo,24785,SID,Close,UC,others (Unsafe Condition),Platform found damaged condition back side of DSC of Kiln - 2,SID,KILN 4,25-08-2025,MINOR, 
+8,Hot work perming without PPEs,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",20-08-2025,Bijay Kumar Sahoo,24786,SID,Close,UA,NON USAGES OF PPES,welding work without hand gloves and apron,SID,KILN 5,20-08-2025,MODRATE,
+9,A worker perform work without Safety Shoes,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",20-08-2025,Bijay Kumar Sahoo,24787,SID,Close,UA,NON USAGES OF PPES,One worker found without safety shoe ,SID,KILN 6,20-08-2025,MODRATE,
+10,A worker perform work withoutPPEs.,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",20-08-2025,Bijay Kumar Sahoo,24788,SID,Close,UA,NON USAGES OF PPES,without hand gloves and nose mask ,SID,KILN 7,20-08-2025,MODRATE,
+11,A worker perform work withoutPPEs.,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",20-08-2025,Bijay Kumar Sahoo,24789,SID,Close,UA,NON USAGES OF PPES,water separating into kiln  without safety goggle,SID,KILN 8,20-08-2025,MODRATE,
+12,A worker perform work withoutPPEs.,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",20-08-2025,Bijay Kumar Sahoo,24790,SID,Close,UA,NON USAGES OF PPES,worker at cb platform found without hand gloves & nose mask,SID,KILN 9,20-08-2025,MODRATE,
+13,A worker perform work withoutPPEs.,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",20-08-2025,Bijay Kumar Sahoo,24791,SID,Close,UA,NON USAGES OF PPES,gas cutting are doing without safety goggle near workshop area,SID,KILN 10,20-08-2025,MODRATE,
+14,A worker perform work withoutPPEs.,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",20-08-2025,Bijay Kumar Sahoo,24792,SID,Close,UA,NON USAGES OF PPES,cutting work without safety goggle,SID,KILN 11,20-08-2025,MODRATE,
+15,A worker perform work withoutPPEs.,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",25-08-2025,Bijay Kumar Sahoo,24793,SID,Close,UA,NON USAGES OF PPES,kiln 4 platform slightly bend in night when castable material kept on platform,SID,KILN 12,25-08-2025,MODRATE,
+16,A worker perform work withoutPPEs.,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",25-08-2025,Bijay Kumar Sahoo,24794,SID,Close,UA,NON USAGES OF PPES,workers at CB platform found without hand gloves and Nose mask,SID,KILN 13,25-08-2025,MODRATE,
+17,A worker perform work withoutPPEs.,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",25-08-2025,Bijay Kumar Sahoo,24795,SID,Close,UA,NON USAGES OF PPES,Rusted and damaged structure of staircase required to repair,SID,KILN 14,25-08-2025,MODRATE,
+18,Found opening & need hand railing on the platform,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",25-08-2025,Bijay Kumar Sahoo,24796,SID,Close,UC,OTHERS (UNSAFE CONDITIONS),Found opening & need hand railing on the platform,SID,KILN 15,30-08-2025,MODRATE,
+19,Hand railing required on the platform,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",25-08-2025,Bijay Kumar Sahoo,24797,SID,Close,UC,OTHERS (UNSAFE CONDITIONS),Hand railing required on the platform,SID,KILN 16,30-08-2025,MODRATE,
+20,Platform got damaged at screen area.,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",25-08-2025,Bijay Kumar Sahoo,24798,SID,Close,UC,OTHERS (UNSAFE CONDITIONS),Platform got damaged at screen area.,SID,KILN 17,30-08-2025,MODRATE,
+21,Platform found damaged condition back side of DSC of Kiln - 2,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",25-08-2025,Bijay Kumar Sahoo,24799,SID,Close,UC,OTHERS (UNSAFE CONDITIONS),Platform found damaged condition back side of DSC of Kiln - 2,SID,KILN 18,30-08-2025,MODRATE,
+22,Oxygen cylinder shifting by foot unsafe act,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",25-08-2025,Bijay Kumar Sahoo,24800,SID,Close,UA,NON USAGES OF PPES,Oxygen cylinder puch by foot unsafe act,SID,KILN 4,25-08-2025,MINOR,
+23,Work without proper safety belt and barricating,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",25-08-2025,Bijay Kumar Sahoo,24801,SID,Close,UA,NON USAGES OF PPES,Work without proper safety belt and barricating,SID,KILN 5,25-08-2025,MINOR,
+24,Concrete floor breaking work without barricating,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",25-08-2025,Bijay Kumar Sahoo,24802,SID,Close,UC,OTHERS (UNSAFE CONDITIONS),Concrete floor breaking work without barricating,SID,KILN 6,30-08-2025,MINOR,
+25,Grinding machine used without wheel guard,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",25-08-2025,Bijay Kumar Sahoo,24803,SID,Close,UC,OTHERS (UNSAFE CONDITIONS),Grinding machine used without wheel guard,SID,KILN 7,30-08-2025,MINOR,
+26,Grinding machine used without hand gloves,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",25-08-2025,Bijay Kumar Sahoo,24804,SID,Close,UA,NON USAGES OF PPES,Grinding machine used without hand gloves,SID,KILN 8,25-08-2025,MINOR,
+27,Lifting of heavy material is being done without any barricades.,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",25-08-2025,Bijay Kumar Sahoo,24805,SID,Close,UA,NON USAGES OF PPES,Lifting of heavy material is being done without any barricades.,SID,KILN 9,25-08-2025,MINOR,
+28,Work without safety belt,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",25-08-2025,Bijay Kumar Sahoo,24806,SID,Close,UA,NON USAGES OF PPES,Work without safety belt,SID,KILN 10,25-08-2025,MINOR,
+29,Oxygen cylinder kept in wrong way,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",25-08-2025,Bijay Kumar Sahoo,24807,SID,Close,UA,NON USAGES OF PPES,Oxygen cylinder kept in wrong way,SID,KILN 11,25-08-2025,MINOR,
+30,There is no safe anchoring point at this work  location.,"H = Y
+P = Y
+E = Y","H = 3
+P = 1
+E = 1","H = 3
+P = 1
+E = 1","H = 9
+P = 1
+E = 1","H = H
+P = L
+E = L",25-08-2025,Bijay Kumar Sahoo,24808,SID,Close,UA,NON USAGES OF PPES,There is no safe anchoring point at this work  location.,SID,KILN 12,25-08-2025,MINOR,
